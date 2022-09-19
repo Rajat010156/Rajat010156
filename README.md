@@ -1,5 +1,5 @@
 ### Hi there, I am Rajat Gaur 👋
-### Check out my website by clicking the link below:-
+### Check out my website by clicking the Image below:-
 
 <!-- Cover Photo-->
 [![iamkkmcmd's cover photo](./data-science.jpg)](https://rajat.dorik.io/)
