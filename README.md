@@ -1,5 +1,5 @@
 ### Hi there, I am Rajat Gaur 👋
-### Check out my website by clicking the Image below:-
+### Check out my Website by clicking below:-
 
 <!-- Cover Photo-->
 [![Rajat's cover photo](./rajat.gif)](https://rajat.dorik.io/) 
