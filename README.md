@@ -1,8 +1,8 @@
-### Hi there 👋
-
+### Hi there, I am Rajat Gaur 👋
+### Check out my website by clicking the link below:-
 
 <!-- Cover Photo-->
-[![iamkkmcmd's cover photo](./iamkkmcmd.gif)](https://github.com/Rajat010156)
+[![iamkkmcmd's cover photo](./data-science.jpg)](https://rajat.dorik.io/)
 
 <!--Social Profiles-->
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/iamkkmcmd)
