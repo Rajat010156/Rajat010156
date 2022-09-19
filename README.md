@@ -14,7 +14,7 @@
 [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/iamkkmcmd)
   
 ## Profile
-I am Krishnakanta, I have logical mind with a practical approach to problem solving and drive to see things through completion. I am eager to learn and enjoy overcoming challenges. I have a genuine interest in data analysis and making significant story. Check out my <a href = './academic_cv.pdf'> Resume </a>.
+I am Rajat Gaur, I have logical mind with a practical approach to problem solving and drive to see things through completion. I am eager to learn and enjoy overcoming challenges. I have a genuine interest in data analysis and making significant story. Check out my <a href = './academic_cv.pdf'> Resume </a>.
 
 ## Projects
 - [Assessing the Feasibility of Diagnosis of Pneumonia using Chest X-Ray Images](https://github.com/iamkkmcmd/ML_Project-Group_3ml)
@@ -59,4 +59,4 @@ I am Krishnakanta, I have logical mind with a practical approach to problem solv
 ![](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black)
 
 ## Github Stats
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=iamkkmcmd&theme=2077)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rajat010156&theme=2077)
