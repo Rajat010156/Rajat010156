@@ -2,7 +2,7 @@
 
 
 <!-- Cover Photo-->
-[![iamkkmcmd's cover photo](./iamkkmcmd.gif)](https://iamkkmcmd.github.io)
+[![iamkkmcmd's cover photo](./iamkkmcmd.gif)](https://github.com/Rajat010156)
 
 <!--Social Profiles-->
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/iamkkmcmd)
